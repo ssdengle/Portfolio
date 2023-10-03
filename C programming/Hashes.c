@@ -1,3 +1,15 @@
+/*Name: Srinivas Dengle
+About:This code exhibits dynamic behavior by accepting user input and 
+      generating a specified quantity of hash symbols, all of which are 
+      meticulously right-aligned. For illustrative purposes, consider 
+      the following example:
+Height: 4
+   #
+  ##
+ ###
+####
+*/
+
 #include <stdio.h>
 #include <cs50.h>
 
